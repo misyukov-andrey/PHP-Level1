@@ -1,0 +1,19 @@
+.gallery img{
+	margin:5px;
+	border:3px solid #fff;
+}
+a.photo:hover img{
+	border:3px solid #034F80;
+}
+#main__galery {
+	width:858px;
+	margin:0 auto;
+	background: #4A4A4A;
+	color: #CCC;
+    background-image: url(../images/body.jpg);
+}
+.post_title h2 {
+	font: normal 2em Arial,sans-serif;
+	margin: 0;
+	padding: 0;
+}
